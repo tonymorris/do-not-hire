@@ -1,4 +1,3 @@
-Miss Bell
-Emily Pillmore
-Tony Morris
-
+* Miss Bell
+* Emily Pillmore
+* Tony Morris
