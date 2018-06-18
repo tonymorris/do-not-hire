@@ -1,7 +1,4 @@
-Miss Bell
-
-Emily Pillmore
-
-Tony Morris
-
-Edmund Noble
+* Miss Bell
+* Emily Pillmore
+* Tony Morris
+* Edmund Noble
